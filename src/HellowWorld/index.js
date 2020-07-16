@@ -26,7 +26,7 @@ const links = [
     title: 'Style',
     link: 'https://facebook.github.io/react-native/docs/style',
     description:
-      'Covers how to use the prop named style which controls the visuals.',
+      'nice to meet you.',
   },
 ];
 
